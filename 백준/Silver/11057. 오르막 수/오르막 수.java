@@ -1,15 +1,11 @@
 import java.util.*;
-import java.lang.*;
-import java.io.*;
 
-// The main method must be in a class named "Main".
 class Main {
     public static int end = 10;
     public static int mod = 10_007;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
-        int[] sum = new int[N + 1];
         int[][] dp = new int[N + 1][end];
 
         Arrays.fill(dp[0], 1);
