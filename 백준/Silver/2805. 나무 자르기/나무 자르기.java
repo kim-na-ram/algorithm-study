@@ -21,23 +21,24 @@ class Main {
             high = Math.max(high, tree[i]);
         }
 
-        while(low < high) {
+        int answer = 0;
+        while(low <= high) {
             int mid = (low + high) / 2;
 
-            long sum = 0;
+            long count = 0;
             for(int h : tree) {
-                sum += h - mid > 0 ? h - mid : 0;
+                count += h - mid > 0 ? h - mid : 0;
             }
 
-            if(sum < M) {
-                // H를 더 낮추기 위해
-                high = mid;
-            } else {
-                // H를 더 높이기 위해
+            if(count >= M) {
+                // H를 더 올리기 위해
+                answer = mid;
                 low = mid + 1;
+            } else {
+                high = mid - 1;
             }
         }
 
-        System.out.println(low - 1);
+        System.out.println(answer);
     }
 }
