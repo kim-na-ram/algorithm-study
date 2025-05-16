@@ -1,44 +1,43 @@
 import java.util.*;
-import java.io.*;
 
 class Main {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-        int N = Integer.parseInt(br.readLine());
-        int[] arr = new int[N];
-        int[] sequence = new int[N + 1];
+        int N = sc.nextInt();
+        int[] A = new int[N];
 
-        StringTokenizer st = new StringTokenizer(br.readLine());
         for(int i = 0; i < N; i++) {
-            arr[i] = Integer.parseInt(st.nextToken());
+            A[i] = sc.nextInt();
         }
 
-        sequence[0] = arr[0];
-        int len = 1;
+        // 증가하는 부분 수열을 저장할 List
+        List<Integer> sequence = new ArrayList<>();
+        sequence.add(A[0]);
+
+        // for문을 돌며, List를 채워넣음
         for(int i = 1; i < N; i++) {
-            if(arr[i] > sequence[len - 1]) {
-                sequence[len++] = arr[i];
+            int high = sequence.size() - 1;
+
+            if(A[i] > sequence.get(high)) {
+                sequence.add(A[i]);
             } else {
-                int idx = binarySearch(sequence, 0, len, arr[i]);
-                sequence[idx] = arr[i]; 
+                int low = 0;
+                while(low < high) {
+                    int mid = (low + high) / 2;
+
+                    if(sequence.get(mid) < A[i]) {
+                        low = mid + 1;
+                    } else {
+                        high = mid;
+                    }
+                }
+
+                // List의 low번 요소를 A[i]로 대치
+                sequence.set(low, A[i]);
             }
         }
 
-        System.out.println(len);
-    }
-
-    public static int binarySearch(int[] sequence, int start, int end, int target) {
-        while(start < end) {
-            int mid = (start + end) / 2;
-
-            if(sequence[mid] < target) {
-                start = mid + 1;
-            } else {
-                end = mid;
-            }
-        }
-
-        return start;
+        System.out.println(sequence.size());
     }
 }
