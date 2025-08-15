@@ -1,11 +1,12 @@
 import java.util.*;
+import java.io.*;
 
 class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        String first = sc.nextLine();
-        String second = sc.nextLine();
+        String first = br.readLine();
+        String second = br.readLine();
 
         int firstLength = first.length();
         int secondLength = second.length();
@@ -21,10 +22,8 @@ class Main {
             }
         }
 
-        if(lcs[firstLength][secondLength] == 0) {
-            System.out.print("0");
-            return ;
-        }
+        System.out.print(lcs[firstLength][secondLength]);
+        if(lcs[firstLength][secondLength] == 0) return ;
 
         StringBuilder sb = new StringBuilder();
         int rIdx = firstLength;
@@ -43,7 +42,7 @@ class Main {
             }
         }
 
-        System.out.println(lcs[firstLength][secondLength]);
+        sb.append("\n");
         System.out.print(sb.reverse());
     }
 }
