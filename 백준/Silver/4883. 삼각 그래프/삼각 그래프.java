@@ -1,35 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-/*
-7 -> 7
-7 -> 13
-7 -> 6
-
-14 -> 14
-14 -> 3
-14 -> 12
-
-20 -> 14
-20 -> 3
-20 -> 12
-
-13 -> 14
-13 -> 3
-13 -> 12
-
-28 -> 6 = 34
-17 -> 6 = 23
-26 -> 6 = 32
-
-34 -> 6 = 40
-23 -> 6 = 29
-32 -> 6 = 38
-
-27 -> 6 = 33
-16 -> 6 = 22
-25 -> 6 = 31
-*/
 class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
