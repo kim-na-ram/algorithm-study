@@ -5,27 +5,17 @@ class Solution {
         // 그 대답들을 anwers라는 정수형 배열에 저장합니다
         // answers[i]는 i번째 토끼에 대한 답입니다.
         // 숲에 있는 토끼의 최소한의 수를 반환하세요.
-        int answer = 0;
 
         Map<Integer, Integer> sameColorRabbit = new HashMap<Integer, Integer>();
-        for(int i = 0; i < answers.length; i++) {
-            if(sameColorRabbit.containsKey(answers[i])) {
-                sameColorRabbit.put(answers[i], sameColorRabbit.get(answers[i]) - 1);
-            } else {
-                sameColorRabbit.put(answers[i], answers[i]);
-            }
+        for(int answer : answers) {
+            sameColorRabbit.put(answer, sameColorRabbit.getOrDefault(answer, 0) + 1);
         }
 
-        for(int rabbit : sameColorRabbit.keySet()) {
-            int realRabbitCount = rabbit + 1;
-            answer += realRabbitCount;
-            if(sameColorRabbit.get(rabbit) < 0) {
-                double rest = (double)Math.abs(sameColorRabbit.get(rabbit)) / (double)(rabbit + 1);
-                int ceil = (int)Math.ceil(rest);
-                answer += (realRabbitCount * ceil);
-            }
+        int total = 0;
+        for(Map.Entry<Integer, Integer> rabbit : sameColorRabbit.entrySet()) {
+            total += Math.ceil((double)rabbit.getValue() / (rabbit.getKey() + 1)) * (rabbit.getKey() + 1);
         }
 
-        return answer;
+        return total;
     }
 }
