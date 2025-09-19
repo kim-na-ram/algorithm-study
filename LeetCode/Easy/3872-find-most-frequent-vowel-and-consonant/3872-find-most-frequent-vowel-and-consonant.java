@@ -1,21 +1,20 @@
 class Solution {
     public int maxFreqSum(String s) {
-        Map<Character, Integer> alphabetNumbering = new HashMap<>();
+        int[] frep = new int[26];
+        int maxVowel = 0;
+        int maxConsonant = 0;
 
         for(int i = 0; i < s.length(); i++) {
-            alphabetNumbering.put(s.charAt(i), alphabetNumbering.getOrDefault(s.charAt(i), 0) + 1);
-        }
+            int alpha = s.charAt(i) - 'a';
+            frep[alpha]++;
 
-        int vowelMax = 0;
-        int consonantMax = 0;
-        for(Character key : alphabetNumbering.keySet()) {
-            if(key == 'a' || key == 'e' || key == 'i' || key == 'o' || key == 'u') {
-                vowelMax = Math.max(vowelMax, alphabetNumbering.get(key));
+            if(alpha == 'a' - 'a' || alpha == 'e' - 'a' || alpha == 'i' - 'a' || alpha == 'o' - 'a' || alpha == 'u' - 'a') {
+                maxVowel = Math.max(maxVowel, frep[alpha]);
             } else {
-                consonantMax = Math.max(consonantMax, alphabetNumbering.get(key));
+                maxConsonant = Math.max(maxConsonant, frep[alpha]);
             }
         }
 
-        return vowelMax + consonantMax;
+        return maxVowel + maxConsonant;
     }
 }
