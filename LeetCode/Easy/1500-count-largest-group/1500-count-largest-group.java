@@ -5,16 +5,11 @@ class Solution {
         int max = 0;
         int answer = 0;
         for(int i = 1; i <= n; i++) {
+            String s = Integer.toString(i);
+
             int sum = 0;
-            int rest = i;
-            while(rest > 0) {
-                if(rest >= 10) {
-                    sum += rest % 10;
-                    rest = rest / 10;
-                } else {
-                    sum += rest;
-                    break;
-                }
+            for(int j = 0; j < s.length(); j++) {
+                sum += s.charAt(j) - '0';
             }
 
             group.put(sum, group.getOrDefault(sum, 0) + 1);
