@@ -16,7 +16,6 @@ class Spreadsheet {
     
     public int getValue(String formula) {
         String[] XY = formula.split("=")[1].split("\\+");
-        System.out.println("X : " + XY[0] + ", Y : " + XY[1]);
         
         String X = XY[0];
         String Y = XY[1];
