@@ -1,19 +1,8 @@
 class Solution {
     public boolean doesAliceWin(String s) {
-        // 앨리스 -> non-empty 홀수 개의 vowel를 포함하는 substring을 제거?
-        // 밥 -> non-empty even number vowel를 포함하는 substring을 제거?
-
-        String sub = s;
-
-        // s의 모든 vowel 개수를 세고
-        // 만약 vowel의 개수가 4개
-        // 그러면 vowel은 
-
-        int vowelSum = 0;
         List<Integer> vowelLocation = new ArrayList<>();
         for(int i = 0; i < s.length(); i++) {
             if(isVowel(s.charAt(i))) {
-                vowelSum++;
                 vowelLocation.add(i);
             }
         }
