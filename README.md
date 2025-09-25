@@ -12,6 +12,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kim-na-ram/algorithm-study/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/kim-na-ram/algorithm-study/tree/master/1500-count-largest-group) |
@@ -27,6 +28,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kim-na-ram/algorithm-study/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/kim-na-ram/algorithm-study/tree/master/1500-count-largest-group) |
@@ -35,6 +37,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/kim-na-ram/algorithm-study/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kim-na-ram/algorithm-study/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3462-vowels-game-in-a-string](https://github.com/kim-na-ram/algorithm-study/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/kim-na-ram/algorithm-study/tree/master/3797-design-spreadsheet) |
