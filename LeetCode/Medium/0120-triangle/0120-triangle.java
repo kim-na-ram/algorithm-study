@@ -1,20 +1,6 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
-        //     2
-        //   3   4
-        //  6  5  7
-        // 4  1  8  3
-
-        // 2
-        // 3 4
-        // 6 5 7
-
-        // 2
-        // 5 6
-        // 9 8 11
-
-        // i에서는 i 혹은 i+1로만 이동 가능
-
+        // list.get(r).get(i)에서는 list.get(r+1).get(i) 혹은 list.get(r+1).get(i+1)로만 이동 가능
         int n = triangle.size();
         int m = triangle.get(n - 1).size();
         int[][] dp = new int[n][m];
