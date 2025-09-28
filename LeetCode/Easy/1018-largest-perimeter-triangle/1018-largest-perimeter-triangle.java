@@ -5,14 +5,15 @@ class Solution {
         int max = 0;
         for(int i = nums.length - 1; i >= 2; i--) {
             int right = i - 1;
-            int left = 0;
+            int left = right - 1;
 
-            while(left < right) {
+            while(left >= 0 && left < right) {
                 if(nums[left] + nums[right] > nums[i]) {
-                    max = Math.max(max, (nums[right - 1] + nums[right] + nums[i]));
-                    right--;
+                    max = Math.max(max, (nums[left] + nums[right] + nums[i]));
+                    break;
                 } else {
                     left++;
+                    right--;
                 }
             }
         }
