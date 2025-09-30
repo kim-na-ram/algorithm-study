@@ -34,6 +34,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
@@ -97,5 +98,10 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/kim-na-ram/algorithm-study/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/0120-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
