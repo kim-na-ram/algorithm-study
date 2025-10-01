@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kim-na-ram/algorithm-study/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kim-na-ram/algorithm-study/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/0120-triangle) |
 | [0611-valid-triangle-number](https://github.com/kim-na-ram/algorithm-study/tree/master/0611-valid-triangle-number) |
@@ -27,6 +28,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kim-na-ram/algorithm-study/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/kim-na-ram/algorithm-study/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
@@ -97,6 +99,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kim-na-ram/algorithm-study/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kim-na-ram/algorithm-study/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/0120-triangle) |
