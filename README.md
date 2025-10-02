@@ -36,6 +36,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kim-na-ram/algorithm-study/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
@@ -100,6 +101,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kim-na-ram/algorithm-study/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kim-na-ram/algorithm-study/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kim-na-ram/algorithm-study/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/0120-triangle) |
@@ -107,4 +109,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kim-na-ram/algorithm-study/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
