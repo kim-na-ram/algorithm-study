@@ -9,6 +9,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0055-jump-game](https://github.com/kim-na-ram/algorithm-study/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kim-na-ram/algorithm-study/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/0120-triangle) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kim-na-ram/algorithm-study/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/kim-na-ram/algorithm-study/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
@@ -18,6 +19,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kim-na-ram/algorithm-study/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kim-na-ram/algorithm-study/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/kim-na-ram/algorithm-study/tree/master/1500-count-largest-group) |
