@@ -19,6 +19,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kim-na-ram/algorithm-study/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kim-na-ram/algorithm-study/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kim-na-ram/algorithm-study/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kim-na-ram/algorithm-study/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/kim-na-ram/algorithm-study/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -155,5 +156,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Prefix Sum
 |  |
 | ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kim-na-ram/algorithm-study/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kim-na-ram/algorithm-study/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
