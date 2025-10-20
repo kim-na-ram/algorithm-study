@@ -21,6 +21,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kim-na-ram/algorithm-study/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kim-na-ram/algorithm-study/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kim-na-ram/algorithm-study/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -74,6 +75,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kim-na-ram/algorithm-study/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/kim-na-ram/algorithm-study/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/kim-na-ram/algorithm-study/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kim-na-ram/algorithm-study/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -175,6 +177,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kim-na-ram/algorithm-study/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
