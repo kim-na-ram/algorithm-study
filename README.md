@@ -20,6 +20,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kim-na-ram/algorithm-study/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kim-na-ram/algorithm-study/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -56,6 +57,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kim-na-ram/algorithm-study/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -154,6 +156,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0120-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kim-na-ram/algorithm-study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kim-na-ram/algorithm-study/tree/master/0198-house-robber) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kim-na-ram/algorithm-study/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
@@ -203,4 +206,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kim-na-ram/algorithm-study/tree/master/3676-smallest-number-with-all-set-bits) |
+## Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
