@@ -75,6 +75,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kim-na-ram/algorithm-study/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/kim-na-ram/algorithm-study/tree/master/1500-count-largest-group) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/kim-na-ram/algorithm-study/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/kim-na-ram/algorithm-study/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kim-na-ram/algorithm-study/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
