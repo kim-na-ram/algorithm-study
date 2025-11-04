@@ -29,6 +29,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kim-na-ram/algorithm-study/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kim-na-ram/algorithm-study/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kim-na-ram/algorithm-study/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -49,6 +50,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kim-na-ram/algorithm-study/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kim-na-ram/algorithm-study/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kim-na-ram/algorithm-study/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/kim-na-ram/algorithm-study/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/kim-na-ram/algorithm-study/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kim-na-ram/algorithm-study/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -101,6 +103,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/kim-na-ram/algorithm-study/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -224,4 +227,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kim-na-ram/algorithm-study/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
