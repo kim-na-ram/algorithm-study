@@ -37,6 +37,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kim-na-ram/algorithm-study/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/kim-na-ram/algorithm-study/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/kim-na-ram/algorithm-study/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/kim-na-ram/algorithm-study/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kim-na-ram/algorithm-study/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -108,10 +110,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/kim-na-ram/algorithm-study/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/kim-na-ram/algorithm-study/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -184,16 +188,19 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0417-pacific-atlantic-water-flow](https://github.com/kim-na-ram/algorithm-study/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/kim-na-ram/algorithm-study/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
 | ------- |
@@ -235,4 +242,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
