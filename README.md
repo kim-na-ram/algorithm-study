@@ -38,6 +38,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kim-na-ram/algorithm-study/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/kim-na-ram/algorithm-study/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/kim-na-ram/algorithm-study/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/kim-na-ram/algorithm-study/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kim-na-ram/algorithm-study/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -72,6 +74,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1834-minimum-number-of-people-to-teach](https://github.com/kim-na-ram/algorithm-study/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -237,10 +240,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
