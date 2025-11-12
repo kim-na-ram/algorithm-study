@@ -27,6 +27,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kim-na-ram/algorithm-study/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kim-na-ram/algorithm-study/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kim-na-ram/algorithm-study/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kim-na-ram/algorithm-study/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kim-na-ram/algorithm-study/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kim-na-ram/algorithm-study/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -89,6 +90,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kim-na-ram/algorithm-study/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kim-na-ram/algorithm-study/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3462-vowels-game-in-a-string](https://github.com/kim-na-ram/algorithm-study/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kim-na-ram/algorithm-study/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kim-na-ram/algorithm-study/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -262,4 +264,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/kim-na-ram/algorithm-study/tree/master/3863-power-grid-maintenance) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kim-na-ram/algorithm-study/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
