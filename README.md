@@ -105,6 +105,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/kim-na-ram/algorithm-study/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/kim-na-ram/algorithm-study/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kim-na-ram/algorithm-study/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/kim-na-ram/algorithm-study/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kim-na-ram/algorithm-study/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -239,6 +240,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/kim-na-ram/algorithm-study/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -261,6 +263,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Sliding Window
 |  |
 | ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/kim-na-ram/algorithm-study/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kim-na-ram/algorithm-study/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Graph
