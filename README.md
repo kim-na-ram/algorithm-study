@@ -88,6 +88,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kim-na-ram/algorithm-study/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/kim-na-ram/algorithm-study/tree/master/1500-count-largest-group) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/kim-na-ram/algorithm-study/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kim-na-ram/algorithm-study/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -103,6 +104,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/kim-na-ram/algorithm-study/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kim-na-ram/algorithm-study/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/kim-na-ram/algorithm-study/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/kim-na-ram/algorithm-study/tree/master/3462-vowels-game-in-a-string) |
