@@ -98,6 +98,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/kim-na-ram/algorithm-study/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/kim-na-ram/algorithm-study/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/kim-na-ram/algorithm-study/tree/master/0474-ones-and-zeroes) |
@@ -183,6 +184,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0062-unique-paths](https://github.com/kim-na-ram/algorithm-study/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kim-na-ram/algorithm-study/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kim-na-ram/algorithm-study/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kim-na-ram/algorithm-study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kim-na-ram/algorithm-study/tree/master/0198-house-robber) |
