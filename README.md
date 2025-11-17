@@ -20,6 +20,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0794-swim-in-rising-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kim-na-ram/algorithm-study/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kim-na-ram/algorithm-study/tree/master/1834-minimum-number-of-people-to-teach) |
