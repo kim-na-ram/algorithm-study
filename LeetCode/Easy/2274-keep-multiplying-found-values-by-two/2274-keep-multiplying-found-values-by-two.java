@@ -1,26 +1,17 @@
 class Solution {
     public int findFinalValue(int[] nums, int original) {
-        Arrays.sort(nums);
-        // 1 3 5 6 12
+        int max = 0;
+        Set<Integer> hs = new HashSet<>();
 
-        int target = original;
-        int start = 0;
-        int end = nums.length - 1;
-
-        while(start <= end) {
-            int mid = (start + end) / 2;
-            
-            if(nums[mid] == target) {
-                target = 2 * target;
-                start = mid + 1;
-                end = nums.length - 1;
-            } else if(nums[mid] < target) {
-                start = mid + 1;
-            } else {
-                end = mid - 1;
-            }
+        for(int num : nums) {
+            hs.add(num);
+            max = max > num ? max : num;
         }
 
-        return target;
+        while(original <= max && hs.contains(original)) {
+            original = original * 2;
+        }
+
+        return original;
     }
 }
