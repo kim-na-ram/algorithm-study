@@ -113,6 +113,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0474-ones-and-zeroes](https://github.com/kim-na-ram/algorithm-study/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kim-na-ram/algorithm-study/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kim-na-ram/algorithm-study/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1668-maximum-repeating-substring](https://github.com/kim-na-ram/algorithm-study/tree/master/1668-maximum-repeating-substring) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/kim-na-ram/algorithm-study/tree/master/3462-vowels-game-in-a-string) |
@@ -202,6 +203,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0241-different-ways-to-add-parentheses](https://github.com/kim-na-ram/algorithm-study/tree/master/0241-different-ways-to-add-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/kim-na-ram/algorithm-study/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1668-maximum-repeating-substring](https://github.com/kim-na-ram/algorithm-study/tree/master/1668-maximum-repeating-substring) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kim-na-ram/algorithm-study/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Memoization
@@ -294,4 +296,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/kim-na-ram/algorithm-study/tree/master/0241-different-ways-to-add-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/kim-na-ram/algorithm-study/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
