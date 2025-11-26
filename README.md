@@ -51,6 +51,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
+| [0264-ugly-number-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kim-na-ram/algorithm-study/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kim-na-ram/algorithm-study/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -92,6 +93,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0070-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kim-na-ram/algorithm-study/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/0264-ugly-number-ii) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kim-na-ram/algorithm-study/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
@@ -132,6 +134,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/0264-ugly-number-ii) |
 | [0794-swim-in-rising-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -204,6 +207,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kim-na-ram/algorithm-study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kim-na-ram/algorithm-study/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kim-na-ram/algorithm-study/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/0264-ugly-number-ii) |
 | [0474-ones-and-zeroes](https://github.com/kim-na-ram/algorithm-study/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1668-maximum-repeating-substring](https://github.com/kim-na-ram/algorithm-study/tree/master/1668-maximum-repeating-substring) |
