@@ -23,6 +23,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1018-largest-perimeter-triangle](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kim-na-ram/algorithm-study/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/kim-na-ram/algorithm-study/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kim-na-ram/algorithm-study/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -58,6 +59,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1015-smallest-integer-divisible-by-k](https://github.com/kim-na-ram/algorithm-study/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kim-na-ram/algorithm-study/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/kim-na-ram/algorithm-study/tree/master/1500-count-largest-group) |
+| [1590-make-sum-divisible-by-p](https://github.com/kim-na-ram/algorithm-study/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kim-na-ram/algorithm-study/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kim-na-ram/algorithm-study/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -256,6 +258,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/kim-na-ram/algorithm-study/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kim-na-ram/algorithm-study/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kim-na-ram/algorithm-study/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/3616-make-array-elements-equal-to-zero) |
