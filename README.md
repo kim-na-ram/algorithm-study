@@ -214,6 +214,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0241-different-ways-to-add-parentheses](https://github.com/kim-na-ram/algorithm-study/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kim-na-ram/algorithm-study/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0338-counting-bits](https://github.com/kim-na-ram/algorithm-study/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/kim-na-ram/algorithm-study/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1668-maximum-repeating-substring](https://github.com/kim-na-ram/algorithm-study/tree/master/1668-maximum-repeating-substring) |
@@ -277,6 +278,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/kim-na-ram/algorithm-study/tree/master/0338-counting-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kim-na-ram/algorithm-study/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kim-na-ram/algorithm-study/tree/master/3676-smallest-number-with-all-set-bits) |
