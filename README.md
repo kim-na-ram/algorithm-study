@@ -127,6 +127,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1668-maximum-repeating-substring](https://github.com/kim-na-ram/algorithm-study/tree/master/1668-maximum-repeating-substring) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/kim-na-ram/algorithm-study/tree/master/2211-count-collisions-on-a-road) |
 | [3462-vowels-game-in-a-string](https://github.com/kim-na-ram/algorithm-study/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/kim-na-ram/algorithm-study/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kim-na-ram/algorithm-study/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -255,6 +256,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/kim-na-ram/algorithm-study/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kim-na-ram/algorithm-study/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kim-na-ram/algorithm-study/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -288,6 +290,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2211-count-collisions-on-a-road](https://github.com/kim-na-ram/algorithm-study/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
