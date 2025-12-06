@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/kim-na-ram/algorithm-study/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kim-na-ram/algorithm-study/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kim-na-ram/algorithm-study/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/kim-na-ram/algorithm-study/tree/master/0064-minimum-path-sum) |
@@ -186,6 +187,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kim-na-ram/algorithm-study/tree/master/0035-search-insert-position) |
 | [0611-valid-triangle-number](https://github.com/kim-na-ram/algorithm-study/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
