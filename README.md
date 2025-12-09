@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kim-na-ram/algorithm-study/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/kim-na-ram/algorithm-study/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kim-na-ram/algorithm-study/tree/master/0053-maximum-subarray) |
@@ -190,6 +191,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kim-na-ram/algorithm-study/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kim-na-ram/algorithm-study/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kim-na-ram/algorithm-study/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/kim-na-ram/algorithm-study/tree/master/0611-valid-triangle-number) |
@@ -279,6 +281,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kim-na-ram/algorithm-study/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kim-na-ram/algorithm-study/tree/master/0053-maximum-subarray) |
 ## Enumeration
 |  |
