@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kim-na-ram/algorithm-study/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/kim-na-ram/algorithm-study/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kim-na-ram/algorithm-study/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kim-na-ram/algorithm-study/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kim-na-ram/algorithm-study/tree/master/0055-jump-game) |
@@ -183,6 +184,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/kim-na-ram/algorithm-study/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/kim-na-ram/algorithm-study/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kim-na-ram/algorithm-study/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/kim-na-ram/algorithm-study/tree/master/0611-valid-triangle-number) |
