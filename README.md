@@ -34,6 +34,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1612-avoid-flood-in-the-city](https://github.com/kim-na-ram/algorithm-study/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kim-na-ram/algorithm-study/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kim-na-ram/algorithm-study/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kim-na-ram/algorithm-study/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kim-na-ram/algorithm-study/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -113,6 +114,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kim-na-ram/algorithm-study/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kim-na-ram/algorithm-study/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kim-na-ram/algorithm-study/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kim-na-ram/algorithm-study/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kim-na-ram/algorithm-study/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kim-na-ram/algorithm-study/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -235,6 +237,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1668-maximum-repeating-substring](https://github.com/kim-na-ram/algorithm-study/tree/master/1668-maximum-repeating-substring) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kim-na-ram/algorithm-study/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kim-na-ram/algorithm-study/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kim-na-ram/algorithm-study/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
