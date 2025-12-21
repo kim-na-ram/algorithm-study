@@ -24,6 +24,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0540-single-element-in-a-sorted-array](https://github.com/kim-na-ram/algorithm-study/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kim-na-ram/algorithm-study/tree/master/0611-valid-triangle-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kim-na-ram/algorithm-study/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0740-delete-and-earn](https://github.com/kim-na-ram/algorithm-study/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0746-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/kim-na-ram/algorithm-study/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
@@ -64,6 +65,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0166-fraction-to-recurring-decimal](https://github.com/kim-na-ram/algorithm-study/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/kim-na-ram/algorithm-study/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kim-na-ram/algorithm-study/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0740-delete-and-earn](https://github.com/kim-na-ram/algorithm-study/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/kim-na-ram/algorithm-study/tree/master/0797-rabbits-in-forest) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kim-na-ram/algorithm-study/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kim-na-ram/algorithm-study/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -238,6 +240,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kim-na-ram/algorithm-study/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/kim-na-ram/algorithm-study/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/kim-na-ram/algorithm-study/tree/master/0474-ones-and-zeroes) |
+| [0740-delete-and-earn](https://github.com/kim-na-ram/algorithm-study/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/kim-na-ram/algorithm-study/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/kim-na-ram/algorithm-study/tree/master/1137-n-th-tribonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kim-na-ram/algorithm-study/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
