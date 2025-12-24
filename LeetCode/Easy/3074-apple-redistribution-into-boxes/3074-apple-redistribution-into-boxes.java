@@ -1,23 +1,20 @@
 class Solution {
-    public int minimumBoxes(int[] apple, int[] cap) {
-        int sum = Arrays.stream(apple).sum();
+    public int minimumBoxes(int[] apple, int[] capacity) {
+        final int n = apple.length, m = capacity.length;
 
-        int[] fq = new int[51];
-        int high = 0, low = 51;
-        for (int c : cap) {
-            fq[c]++;
-            high = Math.max(high, c);
-            low = Math.min(low, c);
+        int sum = 0;
+        for(int a : apple) {
+            sum += a;
         }
 
-        int res = 0;
-        for (int i = high; i >= low && sum > 0; i--) {
-            while (fq[i]-- > 0 && sum > 0) {
-                sum -= i;
-                res++;
-            }
+        Arrays.sort(capacity);
+
+        for(int i = m - 1; i >= 0; i--) {
+            sum -= capacity[i];
+
+            if(sum <= 0) return m - i;
         }
 
-        return res;
+        return m;
     }
 }
